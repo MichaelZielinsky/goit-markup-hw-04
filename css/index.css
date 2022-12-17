@@ -151,6 +151,7 @@ a {
   font-weight: 700;
   line-height: 16px;
   margin-bottom: 10px;
+  margin-top: 30px;
 }
 .adv-descr {
   text-align: left;
@@ -379,7 +380,7 @@ a {
       var(--gradient-hero)
     ),
     url("../images/hero-banner.jpeg");
-  background-size: contain;
+  background-size: ccover;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -404,8 +405,9 @@ a {
 .icon-our-adv {
   background-color: var(--bf-color-team);
   border-radius: 4px;
+  width: 270px;
+  height: 120px;
   padding: 25px 100px;
-  margin-bottom: 10px;
 }
 /* model blokowy - our adv - end */
 
